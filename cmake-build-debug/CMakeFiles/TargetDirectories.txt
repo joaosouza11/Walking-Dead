@@ -1,0 +1,3 @@
+C:/Users/JoaoV/OneDrive - Fatec Centro Paula Souza/Fatec/1Semestre/AlgumRitmo/CLion_codes/Desafios/des03/Walking-Dead/cmake-build-debug/CMakeFiles/des03.dir
+C:/Users/JoaoV/OneDrive - Fatec Centro Paula Souza/Fatec/1Semestre/AlgumRitmo/CLion_codes/Desafios/des03/Walking-Dead/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JoaoV/OneDrive - Fatec Centro Paula Souza/Fatec/1Semestre/AlgumRitmo/CLion_codes/Desafios/des03/Walking-Dead/cmake-build-debug/CMakeFiles/rebuild_cache.dir
